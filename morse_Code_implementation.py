@@ -69,7 +69,7 @@ def decrypt(message):
 
 
 def main():
-    message = "fuck it up"
+    message = "Morse code here"
     result = encrypt(message.upper())
     print (result)
 
